@@ -1,7 +1,3 @@
-Aquí tienes un ejemplo de archivo **README.md** para tu proyecto WordPress:
-
----
-
 # FN - Flash News WordPress Theme
 
 **Descripción del Proyecto:**  
@@ -74,6 +70,6 @@ Las contribuciones son bienvenidas. Por favor, abre un *Pull Request* o crea un 
 Autor: **39009471**  
 Email: **eferreirac01@educantabria.es**  
 
+Colaboratos: **TEST-2**
+Email: **eloycuesta@hotmail.es**
 ---
-
-Este README proporciona una guía básica para configurar y utilizar el proyecto **FN - Flash News** en WordPress.
