@@ -1,5 +1,3 @@
-Aquí tienes un ejemplo de archivo **README.md** para tu proyecto WordPress:
-
 ---
 
 # FN - Flash News WordPress Theme
