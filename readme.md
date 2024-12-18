@@ -70,6 +70,5 @@ Las contribuciones son bienvenidas. Por favor, abre un *Pull Request* o crea un 
 Autor: **39009471**  
 Email: **eferreirac01@educantabria.es**  
 
-Colaboratos: **TEST-2**
-Email: **eloycuesta@hotmail.es**
----
+Colaborator: **TEST-2**  
+Email: **eloycuesta@hotmail.es**  
