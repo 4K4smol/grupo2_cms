@@ -1,79 +1,64 @@
-﻿Aquí tienes un ejemplo de archivo **README.md** para tu proyecto WordPress:
+﻿=== Blogrift ===
+Contributors: Themeansar
+Tags: blog, portfolio, news, grid-Layout, one-column, two-columns, three-columns, flexible-header, left-sidebar, right-sidebar, custom-background, custom-colors, custom-logo, custom-menu, featured-images, footer-widgets, full-width-template, post-formats, rtl-language-support, theme-options, sticky-post, threaded-comments, translation-ready, block-styles, wide-blocks
+Requires at least: 5.6
+Requires PHP: 7.4
+Tested up to: 6.6
+Stable tag: 0.7
+Version: 0.7
+License: GPLv3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
----
+Blogrift WordPress Theme is child theme of Blogus, Copyright 2020 Themeansar
+Blogrift is distributed under the terms of the GNU General Public License v3
 
-# FN - Flash News WordPress Theme
+Blogrift is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
 
-**Descripción del Proyecto:**  
-"FN - Flash News" es un sitio WordPress que proporciona noticias organizadas por categorías como Deportes, Economía, Naturaleza, Política y Tecnología.
+Blogrift is clean, powerful, flexible, highly customizable and Gutenberg ready WordPress theme with responsive and beautifully crafted design.
 
----
+== Description ==
 
-## 📂 Estructura del Proyecto
-```
-wordpress/
-│
-├── wp-admin/         # Archivos de administración de WordPress
-├── wp-content/       # Contenido personalizado del sitio
-│   ├── languages/    # Archivos de idioma
-│   ├── plugins/      # Plugins instalados
-│   └── themes/
-│       └── blogrift/ # Tema personalizado
-│           ├── css/        # Estilos CSS
-│           ├── hooks/      # Hooks personalizados
-│           ├── images/     # Imágenes del tema
-│           ├── content.php # Contenido principal
-│           ├── favicon.ico # Ícono del sitio
-│           ├── functions.php # Funciones personalizadas
-│           ├── header.php  # Cabecera del tema
-│           ├── index.php   # Página principal del tema
-│           ├── readme.txt  # Archivo de información adicional
-│           └── style.css   # Estilos generales del tema
-└── wp-includes/      # Archivos de soporte de WordPress
-```
+Blogrift is a fast, clean, modern-looking Best Responsive News Magazine WordPress theme. The theme is fully widgetized, so users can manage the content by using easy to use widgets. blogrift is suitable for dynamic news, newspapers, magazine, publishers, blogs, editors, online and gaming magazines, newsportals,personal blogs, newspaper, publishing or review siteand any creative website. blogrift is SEO friendly, WPML,Gutenberg, translation and RTL ready. Live preview : https://demos.themeansar.com/blogus/blogrift and documentation at https://docs.themeansar.com/docs/blogus/
 
----
 
-## 📰 Categorías de Noticias
-El sitio organiza las noticias en las siguientes categorías:
-1. **Deportes:** Noticias sobre eventos y actividades deportivas.
-2. **Economía:** Información sobre la economía global.
-3. **Naturaleza:** Artículos sobre el medio ambiente y la naturaleza.
-4. **Política:** Actualizaciones de la política mundial.
-5. **Tecnología:** Noticias sobre innovación y tecnología.
+== Image Licence == 
 
----
+License: Creative Commons CC0 license.
+License URI: https://pxhere.com/en/license
+Source: https://pxhere.com/en/photo/568051
 
-## 🚀 Instalación
-1. Descarga y copia la carpeta del tema `blogrift` en `wp-content/themes/`.
-2. Activa el tema desde el panel de administración de WordPress.
-3. Asegúrate de tener las siguientes dependencias configuradas:
-   - **PHP 7.4+**
-   - **WordPress 6.7.1**
+License: Creative Commons CC0 license.
+License URI: https://stocksnap.io/license
+Source: https://stocksnap.io/photo/vaticancity-rome-D3EEBEAF73
 
----
 
-## 🖼️ Personalización
-- **Favicon:**  
-   Asegúrate de que el archivo `favicon.ico` está ubicado en `wp-content/themes/blogrift/`.  
-   Modifica la línea en `header.php` si es necesario:
-   ```php
-   <link rel="icon" type="image/x-icon" href="<?php echo get_template_directory_uri(); ?>/favicon.ico">
-   ```
-- **Estilos CSS:**  
-   Personaliza la apariencia en `style.css` o en archivos CSS adicionales ubicados en la carpeta `css/`.
+== Frequently Asked Questions ==
 
----
+= Does this theme support any plugins? =
 
-## ✍️ Contribuciones
-Las contribuciones son bienvenidas. Por favor, abre un *Pull Request* o crea un *Issue* si encuentras algún problema.
+Blogrift includes support for WooCommerce, Contact From 7 and Elementor.
 
----
+== Changelog ==
 
-## 📧 Contacto
-Autor: **39009471**  
-Email: **eferreirac01@educantabria.es**  
+= 0.1 =
+* Initial release.
 
----
+= 0.2 =
+* Update Theme URI.
 
-Este README proporciona una guía básica para configurar y utilizar el proyecto **FN - Flash News** en WordPress.
+= 0.3 =
+* Fixed customizer control issue.
+
+= 0.4 =
+* Fixed Dark Color issue.
+
+= 0.5 =
+* Fixed Dark Light Switcher Issue.
+
+= 0.6 =
+* Added Custome Image.
+* Fixed Styling Issue.
+
+= 0.7 =
+* Fixed .bs_model Issue.
