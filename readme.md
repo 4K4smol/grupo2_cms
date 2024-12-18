@@ -1,5 +1,3 @@
----
-
 # FN - Flash News WordPress Theme
 
 **Descripción del Proyecto:**  
