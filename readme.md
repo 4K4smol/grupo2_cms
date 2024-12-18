@@ -49,18 +49,6 @@ El sitio organiza las noticias en las siguientes categorías:
 
 ---
 
-## 🖼️ Personalización
-- **Favicon:**  
-   Asegúrate de que el archivo `favicon.ico` está ubicado en `wp-content/themes/blogrift/`.  
-   Modifica la línea en `header.php` si es necesario:
-   ```php
-   <link rel="icon" type="image/x-icon" href="<?php echo get_template_directory_uri(); ?>/favicon.ico">
-   ```
-- **Estilos CSS:**  
-   Personaliza la apariencia en `style.css` o en archivos CSS adicionales ubicados en la carpeta `css/`.
-
----
-
 ## ✍️ Contribuciones
 Las contribuciones son bienvenidas. Por favor, abre un *Pull Request* o crea un *Issue* si encuentras algún problema.
 
